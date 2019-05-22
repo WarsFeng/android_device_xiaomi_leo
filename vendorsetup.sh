@@ -1,0 +1,3 @@
+add_lunch_combo omni_Xiaomi_leo-user
+add_lunch_combo omni_Xiaomi_leo-userdebug
+add_lunch_combo omni_Xiaomi_leo-eng
